@@ -3,7 +3,6 @@
 
 <template>
     <div>
-        LoginPage
-        <a href="/forgot_password">Forgot Password</a>
+        Teste
     </div>
 </template>

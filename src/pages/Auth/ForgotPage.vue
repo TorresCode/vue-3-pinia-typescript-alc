@@ -3,7 +3,7 @@
 
 <template>
     <div>
-        LoginPage
-        <a href="/forgot_password">Forgot Password</a>
+        Forgot password
+        <a href="/">Login</a>
     </div>
 </template>

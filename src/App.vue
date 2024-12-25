@@ -6,8 +6,9 @@ import { RouterView } from 'vue-router';
 <template>
   <aside>
     <ul>
-      <a href="/">Home</a>
-      <a href="/contate">Conate</a>
+      <a href="/admin">Home</a>
+      <a href="/admin/contate">Contate</a>
+      <a href="/">Logout</a>
     </ul>
   </aside>
   <RouterView />
